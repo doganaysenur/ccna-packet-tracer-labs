@@ -1,9 +1,9 @@
- CCNA & Network Architecture Packet Tracer Labs
+## CCNA & Network Architecture Packet Tracer Labs
 
 Bu depo, temel ağ yapılandırmalarından ileri düzey yönlendirme protokolleri ve güvenlik politikalarına kadar geniş bir yelpazeyi kapsayan **Cisco Packet Tracer (`.pkt`)** lab çalışmalarımı içermektedir.
 
 
-## Öne Çıkan Ağ Teknolojileri & Protokoller
+# Öne Çıkan Ağ Teknolojileri & Protokoller
 
 Proje kapsamında uygulanan ve konfigüre edilen temel teknoloji başlıkları:
 
